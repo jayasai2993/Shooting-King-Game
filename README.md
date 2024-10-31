@@ -1,2 +1,2 @@
-# Shooting-King-Game
+# Shooting-King-Game <br/> [https://www.linkedin.com/posts/jayasai2993_python-pygame-gamedevelopment-activity-7224806289996947459-0PGa?utm_source=share&utm_medium=member_desktop]<br/>
 • Developed a 2D shooting game using Pygame, implementing collision detection, enemy AI, bullet mechanics, and a scoring system for a dynamic gameplay experience.<br/><br/> • Integrated responsive controls, background music, and restart functionality to enhance user engagement and replayability.
